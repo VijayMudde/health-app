@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "162585523771",
+    "project_id": "harsha-3a181",
+    "storage_bucket": "harsha-3a181.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162585523771:android:8d185332a8250794bb8e1e",
+        "android_client_info": {
+          "package_name": "com.example.alllogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8CNAC6hTV5Wjw5iXabsHkbgVipN_3eXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
